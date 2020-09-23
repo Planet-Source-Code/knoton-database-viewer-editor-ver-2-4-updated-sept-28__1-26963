@@ -1,0 +1,427 @@
+[Root]
+Most Recent Package=Database ViewerEditor2.4
+
+
+[Package|DatabaseViewerEditor|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\Projekts\ADOQueryanalyser\DataEditorViewer\Database ViewerEditor Ver 2.2\Pack
+
+[Package|DatabaseViewerEditor|Configure DAO ISAMs]
+Applicable=No
+
+[Package|DatabaseViewerEditor|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|DatabaseViewerEditor|Files Found]
+Help.doc=D:\Projekts\ADOQueryanalyser\DataEditorViewer\Database ViewerEditor Ver 2.2\Help.doc
+
+[Package|DatabaseViewerEditor|Files Released]
+
+[Package|DatabaseViewerEditor|Missing Dependency Information]
+
+[Package|DatabaseViewerEditor|Out-of-Date Dependency Information]
+
+[Package|DatabaseViewerEditor|Files Added]
+help.doc=
+
+[Package|DatabaseViewerEditor|Files Removed]
+
+[Package|DatabaseViewerEditor|Files In Project]
+C:\WINNT\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=Yes
+C:\WINNT\system32\msjet40.dll=Yes
+C:\WINNT\system32\msjter40.dll=Yes
+C:\WINNT\system32\msjint40.dll=Yes
+C:\WINNT\system32\vbajet32.dll=Yes
+C:\WINNT\system32\expsrv.dll=Yes
+C:\WINNT\system32\mswstr10.dll=Yes
+C:\WINNT\system32\mswdat10.dll=Yes
+C:\WINNT\system32\msrd2x40.dll=Yes
+C:\WINNT\system32\msrd3x40.dll=Yes
+C:\WINNT\system32\msrepl40.dll=Yes
+C:\WINNT\system32\msjtes40.dll=Yes
+C:\WINNT\system32\VB5DB.DLL=Yes
+C:\WINNT\system32\MSDATGRD.OCX=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\MSCOMCTL.OCX=Yes
+C:\WINNT\system32\COMDLG32.OCX=Yes
+C:\WINNT\system32\RICHTX32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINNT\system32\TABCTL32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\Projekts\ADOQueryanalyser\DataEditorViewer\Database ViewerEditor Ver 2.2\DatabaseEditorViewer.exe=Yes
+D:\Projekts\ADOQueryanalyser\DataEditorViewer\Database ViewerEditor Ver 2.2\Help.doc=Yes
+
+[Package|DatabaseViewerEditor|Configure Registry Files]
+Applicable=No
+
+[Package|DatabaseViewerEditor|Configure Remote Servers]
+Applicable=No
+
+[Package|DatabaseViewerEditor|Install Locations]
+D:\Projekts\ADOQueryanalyser\DataEditorViewer\DatabaseEditorViewer.exe=$(AppPath)
+C:\WINNT\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=$(MSDAOPath)
+C:\WINNT\system32\msjet40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msjter40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msjint40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\mswstr10.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\mswdat10.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msrd2x40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msrd3x40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msrepl40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msjtes40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINNT\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINNT\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINNT\system32\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\TABCTL32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+D:\Projekts\ADOQueryanalyser\DataEditorViewer\Database ViewerEditor Ver 2.0\DatabaseEditorViewer.exe=$(AppPath)
+D:\Projekts\ADOQueryanalyser\DataEditorViewer\Database ViewerEditor Ver 2.0\Help.doc=$(AppPath)
+D:\Projekts\ADOQueryanalyser\DataEditorViewer\Database ViewerEditor Ver 2.2\DatabaseEditorViewer.exe=$(AppPath)
+D:\Projekts\ADOQueryanalyser\DataEditorViewer\Database ViewerEditor Ver 2.2\Help.doc=$(AppPath)
+
+[Package|DatabaseViewerEditor|Configure Shared Files]
+Applicable=Yes
+D:\Projekts\ADOQueryanalyser\DataEditorViewer\DatabaseEditorViewer.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+D:\Projekts\ADOQueryanalyser\DataEditorViewer\Database ViewerEditor Ver 2.0\DatabaseEditorViewer.exe=No
+D:\Projekts\ADOQueryanalyser\DataEditorViewer\Database ViewerEditor Ver 2.0\Help.doc=No
+D:\Projekts\ADOQueryanalyser\DataEditorViewer\Database ViewerEditor Ver 2.2\DatabaseEditorViewer.exe=No
+D:\Projekts\ADOQueryanalyser\DataEditorViewer\Database ViewerEditor Ver 2.2\Help.doc=No
+
+[Package|DatabaseViewerEditor|Distribution]
+Type=single
+Size=
+Title=Knoton큦 Database Viewer/Editor
+
+[Package|DatabaseViewerEditor|IconGroups]
+Group0=Knoton큦 Developement
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|DatabaseViewerEditor|Knoton큦 Developement]
+Icon1=DatabaseEditorViewer.exe
+Title1=DatabaseViewerEditor
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|DatabaseViewerEditor|Package]
+PackageFolder=D:\Projekts\ADOQueryanalyser\DataEditorViewer\Database ViewerEditor Ver 2.2\Pack
+ProjectFolder=D:\Projekts\ADOQueryanalyser\DataEditorViewer\Database ViewerEditor Ver 2.2
+ServerSideCab=
+File1=D:\Projekts\ADOQueryanalyser\DataEditorViewer\Database ViewerEditor Ver 2.2\Pack\setup.exe
+File2=D:\Projekts\ADOQueryanalyser\DataEditorViewer\Database ViewerEditor Ver 2.2\Pack\Setup.Lst
+File3=D:\Projekts\ADOQueryanalyser\DataEditorViewer\Database ViewerEditor Ver 2.2\Pack\DatabaseEditorViewer.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|DatabaseViewerEditor2.3|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\Projekts\DatabaseViewerEditor2.3\Pack
+
+[Package|DatabaseViewerEditor2.3|Configure DAO ISAMs]
+Applicable=No
+
+[Package|DatabaseViewerEditor2.3|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|DatabaseViewerEditor2.3|Files Found]
+Help.doc=D:\Projekts\ADOQueryanalyser\DataEditorViewer\Database ViewerEditor Ver 2.2\Help.doc
+
+[Package|DatabaseViewerEditor2.3|Files Released]
+
+[Package|DatabaseViewerEditor2.3|Missing Dependency Information]
+
+[Package|DatabaseViewerEditor2.3|Out-of-Date Dependency Information]
+
+[Package|DatabaseViewerEditor2.3|Files Added]
+d:\projekts\databaseviewereditor2.3\help.doc=
+
+[Package|DatabaseViewerEditor2.3|Files Removed]
+c:\program files\microsoft visual studio\vb98\wizards\pdwizard\redist\mdac_typ.exe=
+
+[Package|DatabaseViewerEditor2.3|Files In Project]
+C:\WINNT\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=Yes
+C:\WINNT\system32\msjet40.dll=Yes
+C:\WINNT\system32\msjter40.dll=Yes
+C:\WINNT\system32\msjint40.dll=Yes
+C:\WINNT\system32\vbajet32.dll=Yes
+C:\WINNT\system32\expsrv.dll=Yes
+C:\WINNT\system32\mswstr10.dll=Yes
+C:\WINNT\system32\mswdat10.dll=Yes
+C:\WINNT\system32\msrd2x40.dll=Yes
+C:\WINNT\system32\msrd3x40.dll=Yes
+C:\WINNT\system32\msrepl40.dll=Yes
+C:\WINNT\system32\msjtes40.dll=Yes
+C:\WINNT\system32\VB5DB.DLL=Yes
+C:\WINNT\system32\MSDATGRD.OCX=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\MSCOMCTL.OCX=Yes
+C:\WINNT\system32\COMDLG32.OCX=Yes
+C:\WINNT\system32\RICHTX32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINNT\system32\TABCTL32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\Projekts\DatabaseViewerEditor2.3\DatabaseEditorViewer.exe=Yes
+D:\Projekts\DatabaseViewerEditor2.3\Help.doc=Yes
+
+[Package|DatabaseViewerEditor2.3|Configure Registry Files]
+Applicable=No
+
+[Package|DatabaseViewerEditor2.3|Configure Remote Servers]
+Applicable=No
+
+[Package|DatabaseViewerEditor2.3|Install Locations]
+D:\Projekts\ADOQueryanalyser\DataEditorViewer\DatabaseEditorViewer.exe=$(AppPath)
+C:\WINNT\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=$(MSDAOPath)
+C:\WINNT\system32\msjet40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msjter40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msjint40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\mswstr10.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\mswdat10.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msrd2x40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msrd3x40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msrepl40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msjtes40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINNT\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINNT\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINNT\system32\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\TABCTL32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+D:\Projekts\ADOQueryanalyser\DataEditorViewer\Database ViewerEditor Ver 2.0\DatabaseEditorViewer.exe=$(AppPath)
+D:\Projekts\ADOQueryanalyser\DataEditorViewer\Database ViewerEditor Ver 2.0\Help.doc=$(AppPath)
+D:\Projekts\ADOQueryanalyser\DataEditorViewer\Database ViewerEditor Ver 2.2\DatabaseEditorViewer.exe=$(AppPath)
+D:\Projekts\ADOQueryanalyser\DataEditorViewer\Database ViewerEditor Ver 2.2\Help.doc=$(AppPath)
+D:\Projekts\DatabaseViewerEditor2.3\DatabaseEditorViewer.exe=$(AppPath)
+D:\Projekts\DatabaseViewerEditor2.3\Help.doc=$(AppPath)
+
+[Package|DatabaseViewerEditor2.3|Configure Shared Files]
+Applicable=Yes
+D:\Projekts\ADOQueryanalyser\DataEditorViewer\DatabaseEditorViewer.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+D:\Projekts\ADOQueryanalyser\DataEditorViewer\Database ViewerEditor Ver 2.0\DatabaseEditorViewer.exe=No
+D:\Projekts\ADOQueryanalyser\DataEditorViewer\Database ViewerEditor Ver 2.0\Help.doc=No
+D:\Projekts\ADOQueryanalyser\DataEditorViewer\Database ViewerEditor Ver 2.2\DatabaseEditorViewer.exe=No
+D:\Projekts\ADOQueryanalyser\DataEditorViewer\Database ViewerEditor Ver 2.2\Help.doc=No
+D:\Projekts\DatabaseViewerEditor2.3\DatabaseEditorViewer.exe=No
+D:\Projekts\DatabaseViewerEditor2.3\Help.doc=No
+
+[Package|DatabaseViewerEditor2.3|Distribution]
+Type=single
+Size=
+Title=Knoton큦 Database Viewer/Editor
+
+[Package|DatabaseViewerEditor2.3|Package]
+PackageFolder=D:\Projekts\DatabaseViewerEditor2.3\Pack
+ProjectFolder=D:\Projekts\DatabaseViewerEditor2.3
+ServerSideCab=
+File1=D:\Projekts\DatabaseViewerEditor2.3\Pack\setup.exe
+File2=D:\Projekts\DatabaseViewerEditor2.3\Pack\Setup.Lst
+File3=D:\Projekts\DatabaseViewerEditor2.3\Pack\DatabaseEditorViewer.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|DatabaseViewerEditor2.3|IconGroups]
+Group0=Knoton큦 Developement
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|DatabaseViewerEditor2.3|Knoton큦 Developement]
+Icon1=DatabaseEditorViewer.exe
+Title1=DatabaseViewerEditor
+StartIn1=$(AppPath)
+Key1=Icon1
+
+
+[Package|Database ViewerEditor2.4|Knotons큦 Developement]
+Icon1=DatabaseEditorViewer.exe
+Title1=Database Viewer/Editor
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Database ViewerEditor2.4|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=f:\Final Source\DatabaseViewerEditor2.4\Pack
+
+[Package|Database ViewerEditor2.4|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Database ViewerEditor2.4|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Database ViewerEditor2.4|Files Found]
+Help.doc=F:\Final Source\DatabaseViewerEditor2.4\Help.doc
+
+[Package|Database ViewerEditor2.4|Files Released]
+
+[Package|Database ViewerEditor2.4|Missing Dependency Information]
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=
+
+[Package|Database ViewerEditor2.4|Out-of-Date Dependency Information]
+C:\WINNT\system32\MSSTDFMT.DLL=
+
+[Package|Database ViewerEditor2.4|Files Added]
+help.doc=
+
+[Package|Database ViewerEditor2.4|Files Removed]
+
+[Package|Database ViewerEditor2.4|Files In Project]
+C:\WINNT\system32\Msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=Yes
+C:\WINNT\system32\MSDATGRD.OCX=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\Mscomctl.ocx=Yes
+C:\WINNT\system32\Comdlg32.ocx=Yes
+C:\WINNT\system32\RICHTX32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINNT\system32\TABCTL32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+F:\Final Source\DatabaseViewerEditor2.4\DatabaseEditorViewer.exe=Yes
+C:\WINNT\system32\OLEAUT32.DLL=Yes
+C:\WINNT\system32\OLEPRO32.DLL=Yes
+C:\WINNT\system32\ASYCFILT.DLL=Yes
+C:\WINNT\system32\STDOLE2.TLB=Yes
+F:\Final Source\DatabaseViewerEditor2.4\Help.doc=Yes
+
+[Package|Database ViewerEditor2.4|Configure Registry Files]
+Applicable=No
+
+[Package|Database ViewerEditor2.4|Configure Remote Servers]
+Applicable=No
+
+[Package|Database ViewerEditor2.4|Install Locations]
+D:\Projekts\DatabaseViewerEditor2.4\DatabaseEditorViewer.exe=$(AppPath)
+C:\WINNT\system32\Msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=$(MSDAOPath)
+C:\WINNT\system32\msjet40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msjter40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msjint40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\mswstr10.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\mswdat10.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msrd2x40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msrd3x40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msrepl40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msjtes40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINNT\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\Mscomctl.ocx=$(WinSysPath)
+C:\WINNT\system32\Comdlg32.ocx=$(WinSysPath)
+C:\WINNT\system32\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\TABCTL32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\Projekts\DatabaseViewerEditor2.4\Help.doc=$(AppPath)
+D:\Final Source\DatabaseViewerEditor2.4\DatabaseEditorViewer.exe=$(AppPath)
+F:\Final Source\DatabaseViewerEditor2.4\DatabaseEditorViewer.exe=$(AppPath)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+F:\Final Source\DatabaseViewerEditor2.4\Help.doc=$(AppPath)
+
+[Package|Database ViewerEditor2.4|Configure Shared Files]
+Applicable=Yes
+D:\Projekts\DatabaseViewerEditor2.4\DatabaseEditorViewer.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+D:\Projekts\DatabaseViewerEditor2.4\Help.doc=No
+D:\Final Source\DatabaseViewerEditor2.4\DatabaseEditorViewer.exe=No
+F:\Final Source\DatabaseViewerEditor2.4\DatabaseEditorViewer.exe=No
+F:\Final Source\DatabaseViewerEditor2.4\Help.doc=No
+
+[Package|Database ViewerEditor2.4|Distribution]
+Type=single
+Size=
+Title=Database Viewer/Editor
+
+[Package|Database ViewerEditor2.4|IconGroups]
+Group0=Knoton큦 Developement
+PrivateGroup0=False
+Parent0=$(Programs)
+
+[Package|Database ViewerEditor2.4|Knoton큦 Developement]
+Icon1=DatabaseEditorViewer.exe
+Title1=DatabaseViewerEditor
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Database ViewerEditor2.4|Package]
+PackageFolder=f:\Final Source\DatabaseViewerEditor2.4\Pack
+ProjectFolder=F:\Final Source\DatabaseViewerEditor2.4
+ServerSideCab=
+File1=f:\Final Source\DatabaseViewerEditor2.4\Pack\setup.exe
+File2=f:\Final Source\DatabaseViewerEditor2.4\Pack\Setup.Lst
+File3=f:\Final Source\DatabaseViewerEditor2.4\Pack\DatabaseEditorViewer.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
